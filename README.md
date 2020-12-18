@@ -7,6 +7,8 @@ The demos can be found here: https://drive.google.com/drive/folders/1t5CDP7kzOfI
 ## List of shortcuts
 I used a series of shortcuts for better adjusting HSV windows.
 ![Example Frame](exp1.png)
+
+
 In the example frame, the lower and upper HSV range are presented in top left. The number within the bracket denotes which channel is being controlled.
 In the image it is (0) so it is the Hue channel being controlled, it can be adjust by the listed shortcuts:
 * j: min_hue minus 1
