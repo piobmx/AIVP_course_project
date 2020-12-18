@@ -10,7 +10,7 @@ I used a series of shortcuts for better adjusting HSV windows.
 
 
 In the example frame, the lower and upper HSV range are presented in top left. The number within the bracket denotes which channel is being controlled.
-In the image it is (0) so it is the Hue channel being controlled, it can be adjust by the directly pressing such keys:
+In the image it is (0) so it is the Hue channel being controlled, it can be adjust by directly pressing such keys:
 * `j: min_hue minus 1`
 * `k: min_hue plus 1`
 * `l: max_hue plus 1`
